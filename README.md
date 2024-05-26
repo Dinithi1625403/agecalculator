@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=ageCalculater.png alt="logo" width= height= />
+![Age Calculator Screenshots]("images\ageCalculater.png")
 
 <h1>Age Calculator</h1>
 <p>Welcome to the Age Calculator project!This simple application allows users to calculate their age based on their birthdate.</p>
