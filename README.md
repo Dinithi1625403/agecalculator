@@ -19,7 +19,7 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""C:\Users\ASUS\Videos\Recording 2024-05-26 152526.mp4""><img src=""Screenshot 2024-05-26 150950.png"" alt='image' width='800'/></a> </div>
+<div align="center"> <img src=""Screenshot 2024-05-26 150950.png"" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""C:\Users\ASUS\Videos\Recording 2024-05-26 152526.mp4""><img src=""Screenshot 2024-05-26 151011.png"" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""C:\Users\ASUS\Videos\Recording 2024-05-26 152526.mp4""><img src=""Screenshot 2024-05-26 151026.png"" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""C:\Users\ASUS\Videos\Recording 2024-05-26 152526.mp4""><img src=""Screenshot 2024-05-26 151048.png"" alt='image' width='800'/></a> </div>
