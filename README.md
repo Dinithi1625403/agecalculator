@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Age-Calculator</h1>
 
-<p align="center"><img src="Screenshot.png" alt="project-image"></p>
+<p align="center"><img src="images/Screenshot.png" alt="project-image"></p>
 
 <p id="description">Developed an intuitive age calculator using HTML CSS and JavaScript. This tool allows users to quickly determine their exact age in years months and days by simply inputting their date of birth. The project demonstrates proficiency in front-end web development.</p>
 
